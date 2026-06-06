@@ -1,0 +1,16 @@
+[
+  {
+    "title": "DAEMON LKTEAM",
+    "packageName": "com.santander.bbs",
+    "version": "Version: 2.0",
+    "logoUrl": "https://raw.githubusercontent.com/username/repo/main/ic_daemon.png",
+    "downloadUrl": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk"
+  },
+  {
+    "title": "ANOTHER PLUG",
+    "packageName": "com.example.plug",
+    "version": "Version: 1.0",
+    "logoUrl": "https://raw.githubusercontent.com/username/repo/main/another_logo.png",
+    "downloadUrl": "https://example.com/another_app.apk"
+  }
+]
