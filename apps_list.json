@@ -3,7 +3,7 @@
     "title": "DAEMON LKTEAM",
     "packageName": "com.santander.bbs",
     "version": "Version: 2.0",
-    "logoUrl": "https://raw.githubusercontent.com/username/repo/main/ic_daemon.png",
+    "logoUrl": "https://raw.githubusercontent.com/hexgray/Image/refs/heads/main/ic_lktm.png",
     "downloadUrl": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk"
   },
   {
