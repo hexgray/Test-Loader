@@ -22,9 +22,9 @@
     "downloadUrl": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk"
   },
   {
-    "title": "ANOTHER PLUG",
-    "packageName": "com.example.plug",
-    "version": "Version: 1.0",
+    "title": "Ultima",
+    "packageName": "armadillo.studio",
+    "version": "Version: 1.3.0",
     "logoUrl": "https://raw.githubusercontent.com/username/repo/main/another_logo.png",
     "downloadUrl": "https://example.com/another_app.apk"
   }
