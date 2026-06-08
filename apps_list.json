@@ -1,7 +1,7 @@
 [
   
   {
-    "title": "LKTEAM",
+    "title": "LKNEW",
     "packageName": "com.santander.bbs",
     "version": "Version: 2.0",
     "logoUrl": "https://raw.githubusercontent.com/hexgray/Image/refs/heads/main/ic_lktm.png",
@@ -11,7 +11,7 @@
     "title": "ANOTHER PLUG",
     "packageName": "com.example.plug",
     "version": "Version: 1.0",
-    "logoUrl": "https://raw.githubusercontent.com/username/repo/main/another_logo.png",
+    "logoUrl": "https://github.com/hexgray/Image/blob/main/ic_ultema.png",
     "downloadUrl": "https://example.com/another_app.apk"
   },  
   {
@@ -22,7 +22,7 @@
     "downloadUrl": "https://github.com/termux/termux-api/releases/download/v0.53.0/termux-api-app_v0.53.0+github.debug.apk"
   },
   {
-    "title": "Ultima",
+    "title": "LKOLD",
     "packageName": "armadillo.studio",
     "version": "Version: 1.3.0",
     "logoUrl": "https://github.com/hexgray/Image/blob/main/ic_ultema.png",
